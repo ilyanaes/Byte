@@ -1,1 +1,3 @@
 print("Succes")
+local CustomKey = key
+print(key)
