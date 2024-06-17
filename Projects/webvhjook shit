@@ -8,7 +8,7 @@ local SendLog = function(Link, D)
 			{
 				["content"] = "",
 				["embeds"] = {{
-					["title"] = "**Username/UserID**:",
+					["title"] = "Flows Version **Username/UserID**:",
 					["description"] = D[1].." / "..tostring(D[2]),
 					["color"] = tonumber(0x2B6BE4),
 					["fields"] = {
